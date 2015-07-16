@@ -1,6 +1,6 @@
 # hire.js - The open source job description from DigitalRev
 
-### Please feel free to send me a PR if you would like to improve the code, Thanks.
+### PR is welcome.
 
 ```javascript
 
