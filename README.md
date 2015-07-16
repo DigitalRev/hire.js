@@ -20,7 +20,8 @@
 class DigitalRevEngineer extends PassionateAboutCoding {
   let frontEndDeveloper = {};
   constructor() {
-    frontEndDeveloper.responsibility = "负责DigitalRev新产品网站的前端开发（响应式布局）"
+    frontEndDeveloper.title = "前端工程师";
+    frontEndDeveloper.responsibility = "负责DigitalRev新产品网站的前端开发（响应式布局）";
   }
 
   aboutUs() {
@@ -67,5 +68,5 @@ class DigitalRevEngineer extends PassionateAboutCoding {
 }
 
 
-```
 
+```
