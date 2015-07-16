@@ -9,7 +9,7 @@
  *  author:  Leon Li
  *  version: 1.0.0
  *  source:  http://github.com/digitalrev/hire.js
- */
+**/
 
 class DigitalRevEngineer extends PassionateAboutCoding {
   let frontEndDeveloper = {};
