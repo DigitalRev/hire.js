@@ -71,3 +71,24 @@ class DigitalRevEngineer extends PassionateAboutCoding {
 
 
 ```
+
+``` stylus
+
+/**
+ * hire.styl
+ *
+ * Copyright 2015 DigitalRev, ltd.
+ *
+ * Released under the MIT and GPL Licenses.
+ *
+ * ------------------------------------------------
+ *  author:  Leon Li
+ *  version: 1.0.0
+ *  source:  http://github.com/digitalrev/hire.js
+**/
+
+.fear
+  display none
+
+
+```
